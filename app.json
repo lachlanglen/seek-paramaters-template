@@ -1,0 +1,12 @@
+{
+  "name": "seekParametersTemplate",
+  "displayName": "seekParametersTemplate",
+  "expo": {
+    "name": "seekParametersTemplate",
+    "slug": "seekParametersTemplate",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
